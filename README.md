@@ -1,4 +1,4 @@
-# 3D-printing-mechanical-metamaterials
+# Using 3D printing to realise ball-and-spring metamaterial designs
 My masters thesis on 3d printing mechanical metamaterials with hobbyist grade 3D printer, containing the first realisation of a 3D topological mechanical insulator. Originally submitted on the 7th of January 2020.
 
 # Abstract
